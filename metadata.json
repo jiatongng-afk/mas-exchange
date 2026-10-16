@@ -1,0 +1,6 @@
+{
+  "name": "MAS Exchange Rate Monitor",
+  "description": "Singapore Monetary Authority (MAS) End-of-Day foreign exchange rates monitor, currency converter, and historical trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
